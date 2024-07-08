@@ -1,6 +1,4 @@
-Here's a `README.md` file for your project:
 
-```markdown
 # Apple Stock Price Analysis and Prediction
 
 This project analyzes and predicts Apple stock prices using historical data. The analysis includes data visualization and linear regression for predicting stock prices.
@@ -131,9 +129,4 @@ pip install pandas numpy matplotlib plotly scikit-learn
 
 The results section includes plots of the actual vs. predicted stock prices and the evaluation metrics of the linear regression model. 
 
-## License
 
-This project is licensed under the MIT License.
-```
-
-This `README.md` provides a comprehensive guide to understanding and reproducing your analysis and prediction of Apple stock prices. Adjust the paths and any other specific details according to your project setup.
