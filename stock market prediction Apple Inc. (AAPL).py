@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
+#MY FIRST PROJECT HEHE
 
 # In[1]:
 
