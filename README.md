@@ -5,7 +5,6 @@ This project analyzes and predicts Apple stock prices using historical data. The
 
 ## Project Structure
 
-- `AAPL.csv`: CSV file containing historical stock price data for Apple.
 - `analysis.py`: Python script for data analysis and visualization.
 - `README.md`: Project documentation.
 
