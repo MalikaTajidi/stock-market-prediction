@@ -16,7 +16,7 @@ init_notebook_mode(connected=True)
 # In[2]:
 
 
-apple = pd.read_csv('C:\\Users\\HP\\Desktop\\AAPL.csv')
+apple = pd.read_csv('path to AAPL.csv')
 
 
 # In[3]:
