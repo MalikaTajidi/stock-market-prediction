@@ -32,7 +32,7 @@ pip install pandas numpy matplotlib plotly scikit-learn
 1. **Load the Data**: Read the CSV file containing Apple stock prices.
     ```python
     import pandas as pd
-    apple = pd.read_csv('C:\\Users\\HP\\Desktop\\AAPL.csv')
+    apple = pd.read_csv('path to your csv file')
     ```
 
 2. **Data Preprocessing**: Convert the 'Date' column to datetime format and explore the dataset.
