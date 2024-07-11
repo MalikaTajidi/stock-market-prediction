@@ -5,7 +5,7 @@ This project analyzes and predicts Apple stock prices using historical data. The
 
 ## Project Structure
 
-- `analysis.py`: Python script for data analysis and visualization.
+- `stock market prediction Apple Inc. (AAPL).py`: Python script for data analysis and visualization.
 - `README.md`: Project documentation.
 
 ## Getting Started
